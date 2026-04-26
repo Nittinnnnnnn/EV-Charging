@@ -1,0 +1,43 @@
+{
+  "assignments": [
+    {
+      "demandLat": 30.332604228844534,
+      "demandLng": 77.99245834350587,
+      "demandNodeId": 4,
+      "distance": 0.0,
+      "stationLat": 30.332604228844534,
+      "stationLng": 77.99245834350587,
+      "stationNodeId": 4
+    },
+    {
+      "demandLat": 30.311574252577632,
+      "demandLng": 78.02438735961915,
+      "demandNodeId": 6,
+      "distance": 0.0,
+      "stationLat": 30.311574252577632,
+      "stationLng": 78.02438735961915,
+      "stationNodeId": 6
+    }
+  ],
+  "stations": [
+    {
+      "address": "Dehradun, Uttarakhand, 248001, India",
+      "id": 6,
+      "lat": 30.311574252577632,
+      "lng": 78.02438735961915
+    },
+    {
+      "address": "Ashirwad Enclave, Rāngharwāla, Dehradun, Uttarakhand, 248001, India",
+      "id": 4,
+      "lat": 30.332604228844534,
+      "lng": 77.99245834350587
+    },
+    {
+      "address": "Telpura, Dehradun, Uttarakhand, 248001, India",
+      "id": 5,
+      "lat": 30.309352512601098,
+      "lng": 77.98130035400392
+    }
+  ],
+  "totalCost": 0.0
+}

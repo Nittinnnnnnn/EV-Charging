@@ -1,0 +1,54 @@
+{
+  "k": 3,
+  "nodes": [
+    {
+      "id": 1,
+      "lat": 30.289947176507955,
+      "lng": 78.0073928833008,
+      "address": "NH7, M\u0101jra, Dehradun, Uttarakhand, 248001, India",
+      "isDemand": false,
+      "weight": 0.0
+    },
+    {
+      "id": 2,
+      "lat": 30.325496009583187,
+      "lng": 78.05065155029298,
+      "address": "Dehradun, Uttarakhand, 248001, India",
+      "isDemand": false,
+      "weight": 0.0
+    },
+    {
+      "id": 3,
+      "lat": 30.29009532339014,
+      "lng": 78.06301116943361,
+      "address": "30.29010, 78.06301",
+      "isDemand": false,
+      "weight": 0.0
+    },
+    {
+      "id": 4,
+      "lat": 30.332604228844534,
+      "lng": 77.99245834350587,
+      "address": "Ashirwad Enclave, R\u0101ngharw\u0101la, Dehradun, Uttarakhand, 248001, India",
+      "isDemand": true,
+      "weight": 3.0
+    },
+    {
+      "id": 5,
+      "lat": 30.309352512601098,
+      "lng": 77.98130035400392,
+      "address": "Telpura, Dehradun, Uttarakhand, 248001, India",
+      "isDemand": false,
+      "weight": 0.0
+    },
+    {
+      "id": 6,
+      "lat": 30.311574252577632,
+      "lng": 78.02438735961915,
+      "address": "Dehradun, Uttarakhand, 248001, India",
+      "isDemand": true,
+      "weight": 5.0
+    }
+  ],
+  "edges": []
+}
